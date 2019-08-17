@@ -1,0 +1,26 @@
+D:\BOL\obj\Debug\BOL.Resources.resources
+D:\BOL\obj\Debug\BOL.vbproj.GenerateResource.Cache
+D:\BOL\bin\Debug\BOL.dll
+D:\BOL\bin\Debug\BOL.pdb
+D:\BOL\bin\Debug\BOL.xml
+D:\BOL\obj\Debug\BOL.dll
+D:\BOL\obj\Debug\BOL.xml
+D:\BOL\obj\Debug\BOL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\bin\Debug\BOL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\bin\Debug\BOL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\bin\Debug\BOL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\obj\Debug\BOL.Resources.resources
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\obj\Debug\BOL.vbproj.GenerateResource.Cache
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\obj\Debug\BOL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\obj\Debug\BOL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BOL\obj\Debug\BOL.pdb
+D:\SEMESTER 5\AktaKelahiran\BOL\bin\Debug\BOL.dll
+D:\SEMESTER 5\AktaKelahiran\BOL\bin\Debug\BOL.pdb
+D:\SEMESTER 5\AktaKelahiran\BOL\bin\Debug\BOL.xml
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.Resources.resources
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.vbproj.GenerateResource.Cache
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.dll
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.xml
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.pdb
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.vbprojAssemblyReference.cache
+D:\SEMESTER 5\AktaKelahiran\BOL\obj\Debug\BOL.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,48 @@
+D:\BussinessLogic\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\BussinessLogic\obj\Debug\BLL.Resources.resources
+D:\BussinessLogic\obj\Debug\BLL.vbproj.GenerateResource.Cache
+D:\BussinessLogic\bin\Debug\BLL.dll
+D:\BussinessLogic\bin\Debug\BLL.pdb
+D:\BussinessLogic\bin\Debug\BLL.xml
+D:\BussinessLogic\bin\Debug\BOL.dll
+D:\BussinessLogic\bin\Debug\DAL.dll
+D:\BussinessLogic\bin\Debug\BOL.pdb
+D:\BussinessLogic\bin\Debug\BOL.xml
+D:\BussinessLogic\bin\Debug\DAL.pdb
+D:\BussinessLogic\bin\Debug\DAL.xml
+D:\BussinessLogic\obj\Debug\BLL.dll
+D:\BussinessLogic\obj\Debug\BLL.xml
+D:\BussinessLogic\obj\Debug\BLL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\obj\Debug\BLL.Resources.resources
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\obj\Debug\BLL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\obj\Debug\BLL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\obj\Debug\BLL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\BLL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\BLL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\BLL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\BOL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\DAL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\BOL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\BOL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\DAL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\BLL\bin\Debug\DAL.xml
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\BLL.dll
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\BLL.pdb
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\BLL.xml
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\BOL.dll
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\DAL.dll
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\BOL.pdb
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\BOL.xml
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\DAL.pdb
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\DAL.xml
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.Resources.resources
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.dll
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.xml
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.pdb
+D:\SEMESTER 5\AktaKelahiran\BLL\bin\Debug\DAL.dll.config
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 5\AktaKelahiran\BLL\obj\Debug\BLL.vbproj.CopyComplete

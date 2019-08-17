@@ -1,0 +1,29 @@
+D:\DAL\bin\Debug\DAL.dll.config
+D:\DAL\bin\Debug\DAL.dll
+D:\DAL\bin\Debug\DAL.pdb
+D:\DAL\bin\Debug\DAL.xml
+D:\DAL\obj\Debug\DAL.Resources.resources
+D:\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\DAL\obj\Debug\DAL.dll
+D:\DAL\obj\Debug\DAL.xml
+D:\DAL\obj\Debug\DAL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\bin\Debug\DAL.dll.config
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\bin\Debug\DAL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\bin\Debug\DAL.pdb
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\bin\Debug\DAL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\obj\Debug\DAL.Resources.resources
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\obj\Debug\DAL.dll
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\obj\Debug\DAL.xml
+D:\Kampus\Pemrograman Web 2\Praktikum\Projek PWeb2\AktaKelahiran\DAL\obj\Debug\DAL.pdb
+D:\SEMESTER 5\AktaKelahiran\DAL\bin\Debug\DAL.dll.config
+D:\SEMESTER 5\AktaKelahiran\DAL\bin\Debug\DAL.dll
+D:\SEMESTER 5\AktaKelahiran\DAL\bin\Debug\DAL.pdb
+D:\SEMESTER 5\AktaKelahiran\DAL\bin\Debug\DAL.xml
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.Resources.resources
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.dll
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.xml
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.pdb
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+D:\SEMESTER 5\AktaKelahiran\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
